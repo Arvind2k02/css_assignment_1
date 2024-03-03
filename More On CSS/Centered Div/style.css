@@ -1,0 +1,29 @@
+*body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: skyblue;
+    border-radius: 5px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1ps solid #ddd;
+    width: 40%;
+    text-align: center;
+}
+
+.container img{
+    border-radius: 5px;
+    max-width: 445px;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+.container p{
+    font-size: 20px;
+    line-height: 1.6;
+    color: #fff;
+}

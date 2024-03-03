@@ -1,0 +1,16 @@
+*body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 40%;
+    height: 50%;
+    border: 5px solid black;
+    margin: 5px 5px;
+}
+
+img:hover{
+    border-radius: 50%;
+}
